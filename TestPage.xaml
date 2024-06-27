@@ -15,9 +15,7 @@
                 Text="Hello, World!"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1"/>
-<!--
             <sfpicker:SfDatePicker x:Name="datePicker"/>
--->
         </VerticalStackLayout>
     </ScrollView>
 
